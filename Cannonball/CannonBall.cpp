@@ -1,4 +1,4 @@
-/*Author: Xiaojie Li, andrew ID: xiaojie1*/
+/*Author: Xiaojie Li*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
