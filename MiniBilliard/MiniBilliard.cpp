@@ -1,4 +1,4 @@
-/*ps5, Author: Xiaojie Li. CMU 24780*/
+/*Author Xiaojie Li, CMU*/
 #include <math.h>
 #include <stdio.h>
 #include "fssimplewindow.h"
